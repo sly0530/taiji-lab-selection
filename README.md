@@ -36,3 +36,18 @@
 ---
 
 ## 文件说明
+
+## 任务三：PycWB时频聚类分析
+
+### 完成内容
+- [x] GW190521_074359时频分析
+- [x] KMeans聚类分析
+- [x] 啁啾特征检测（56Hz → 944Hz）
+- [x] 拟合因子计算
+
+### 结果预览
+![频率变化曲线](task03/task03_frequency_evolution.png)
+
+### 详细结果
+- [查看完整报告](task03/task03_report.txt)
+- [查看代码](task03/task03_complete.ipynb)
